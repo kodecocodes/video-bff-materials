@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "991892771",
+    "project_id": "track-app-2991e",
+    "storage_bucket": "track-app-2991e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991892771:android:62e8535987604948486896",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire_start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991892771-mu19nn0374jjp0kuam9b9taj0etec21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAGAu0Hf2ggmvRoLmRe4xSTZ4I6I3yhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991892771-mu19nn0374jjp0kuam9b9taj0etec21j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991892771-8j4vi4f9nith8io59i2nct1mmpipevb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.track"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991892771:android:861331f8a45ac924486896",
+        "android_client_info": {
+          "package_name": "com.example.track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991892771-mu19nn0374jjp0kuam9b9taj0etec21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAGAu0Hf2ggmvRoLmRe4xSTZ4I6I3yhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991892771-mu19nn0374jjp0kuam9b9taj0etec21j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991892771-8j4vi4f9nith8io59i2nct1mmpipevb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.track"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
